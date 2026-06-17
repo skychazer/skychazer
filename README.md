@@ -6,7 +6,7 @@ Data & AI Engineer.
 <a href="https://www.linkedin.com/in/alin-verma/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.alinverma.com/contact" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Get_in_touch-2563EB?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Contact"></a>
 
-I'm a data engineer at Data Mavericks, working on AI agents, RAG systems, and text-to-SQL along with the Snowflake and AWS pipelines that keep them fed with real data. Plenty of data engineers never touch the agent layer, and plenty of AI engineers can't build the pipelines underneath. I do both.
+I'm a data engineer working on AI agents, RAG systems, and text-to-SQL along with the Snowflake and AWS pipelines that keep them fed with real data. Plenty of data engineers never touch the agent layer, and plenty of AI engineers can't build the pipelines underneath. I do both.
 
 Lately most of my time goes into making these systems reliable enough to run in production, not just look good in a demo.
 
